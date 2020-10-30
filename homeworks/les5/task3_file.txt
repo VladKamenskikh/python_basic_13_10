@@ -1,0 +1,5 @@
+Ivanov 15000
+Petrov 25000
+Lesukov 18000
+Sidorov 40000
+Vasiliev 56000
